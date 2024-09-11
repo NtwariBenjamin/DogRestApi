@@ -2,7 +2,7 @@ package com.benjamin.DogRestApi.web;
 
 import com.benjamin.DogRestApi.Entity.Dog;
 import com.benjamin.DogRestApi.service.DogService;
-import jakarta.persistence.criteria.CriteriaBuilder;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
